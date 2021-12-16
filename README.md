@@ -3,7 +3,7 @@
 ## I'm a Mobile Application Developer! 
 
 - 🔭 I’m currently working on React Native and React
-- 🌱 I'm currently developing myself in the field of data science
+- 🌱 I'm currently developing myself in the field of Native iOS
 - ⚡ I love exploring new places, playing the piano and watching series
 
 ### Connect with me:
