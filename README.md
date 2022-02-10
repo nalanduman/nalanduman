@@ -1,5 +1,7 @@
 ### Hi there, I'm Nalan Duman 👋
 
+![giphy](https://media.giphy.com/media/GgcusW5RLS9Nu/giphy.gif)
+
 ## I'm a Mobile Application Developer! 
 
 - 🔭 I’m currently working on React Native and React
