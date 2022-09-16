@@ -43,3 +43,5 @@
 <a href="https://github.com/nalanduman">
   <img align='right' src="https://github-readme-stats.vercel.app/api?username=nalanduman&show_icons=true&count_private=true alt="GitHub Stats">
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nalanduman)](https://git.io/streak-stats)
