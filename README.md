@@ -4,7 +4,7 @@
 
 ## I'm a Mobile Application Developer! 
 
-- 🔭 I’m currently working on iOS programming and React Native
+- 🔭 I’m currently working on iOS programming with Swift
 - 🌍 I’m based in Istanbul, Turkey
 - 🤝 I'm open to collaborating on interesting projects
 - ⚡ I love exploring new places, playing the piano and watching series
@@ -12,9 +12,8 @@
 ### Connect with me:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalanduman/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nalandmn)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nalanduman)
-[![Mail Badge](https://img.shields.io/badge/dumann16@itu.edu.tr-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dumann16@itu.edu.tr)](mailto:dumann16@itu.edu.tr)
+[![Mail Badge](https://img.shields.io/badge/nalandumaan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nalandumaan@gmail.com)](mailto:nalandumaan@gmail.com)
 <br />
 
 ### Languages and Tools:
